@@ -42,8 +42,6 @@ Then, open the provided local IP in your browser to preview changes live.
 </p>
 
 <p align="center">
-	<a href="https://github.com/harilvfs/links/blob/main/LICENSE">
-		<img src="https://img.shields.io/github/license/harilvfs/links?logo=Github&colorA=2D95E3&colorB=FF4088&style=for-the-badge">
-	</a>
+<a href="https://github.com/harilvfs/links/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/harilvfs/links?logo=Github&colorA=2D95E3&colorB=FF4088&style=for-the-badge"></a>
 </p>
 
