@@ -37,7 +37,10 @@ Then, open the provided local IP in your browser to preview changes live.
 
 ---
 
-<div align="center">  
+<p align="center">
+	Copyright &copy; 2024-present <a href="https://github.com/harilvfs" target="_blank">harilvfs</a>
+</p>
 
-&copy; 2025 Harilvfs. Licensed under [MIT](https://github.com/harilvfs/links/blob/main/LICENSE).  
-</div>  
+<p align="center">
+	<a href="https://github.com/harilvfs/links/blob/main/LICENSE"><img src="https://img.shields.io/github/license/harilvfs/links?logo=Github&colorA=1e1e2e&colorB=cba6f7&style=for-the-badge"></a>
+</p>
