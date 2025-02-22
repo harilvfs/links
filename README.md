@@ -34,5 +34,5 @@ Then, open the provided local IP in your browser to preview changes live.
 
 <div align="center">  
 
-Licensed under [MIT](https://github.com/harilvfs/links/blob/main/LICENSE).  
+&copy; 2025 Harilvfs. Licensed under [MIT](https://github.com/harilvfs/links/blob/main/LICENSE).  
 </div>  
