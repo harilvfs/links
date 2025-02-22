@@ -61,7 +61,7 @@ image = "img/author.jpg"
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
 { x = { href = "https://x.com/harilvfs", text = "Twitter" } },
-{ youtube = { href = "https://youtube.com/name", text = "YouTube" } },
+{ youtube = { href = "https://youtube.com/@aayushchalese", text = "YouTube" } },
   ]
 
 [module]
