@@ -1,3 +1,8 @@
+<div align="center">
+
+<h1>Build With Hugo 🌐</h1>
+</div>
+
 This site is built with [Hugo](https://gohugo.io/), a fast and flexible static site generator written in Go. It enables easy content management with Markdown and powerful customization options.  
 
 Special thanks to the developer of this theme: [jpanther/lynx](https://github.com/jpanther/lynx/).  
