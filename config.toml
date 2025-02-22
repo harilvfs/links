@@ -60,7 +60,7 @@ image = "img/author.jpg"
 { twitch = { href = "https://twitch.tv/aayushchalese", text = "Twitch" } },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
-{ x = { href = "https://x.com/harilvfs", text = "X" } },
+{ x = { href = "https://x.com/harilvfs", text = "Twitter" } },
 { youtube = { href = "https://youtube.com/name", text = "YouTube" } },
   ]
 
