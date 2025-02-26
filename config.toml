@@ -43,6 +43,7 @@ image = "img/author.jpg"
     # { mastodon = "https://mastodon.instance/@username" },
 { medium = { href = "https://medium.com/@aayushchalise", text = "Medium" } },
     # { microsoft = "https://www.microsoft.com/" },
+{ matrix = { href = "https://matrix.to/#/@harilvfs:matrix.org", text = "Matrix" } },
     # { patreon = "https://www.patreon.com/username" },
 { pinterest = { href = "https://pinterest.com/harilvfs", text = "Pinterest" } },
 { reddit = { href = "https://reddit.com/user/aayush-le", text = "Reddit" } },
