@@ -1,4 +1,5 @@
 baseURL = "https://harilvfs.github.io/links/"
+homepage= "."
 languageCode = "en"
 defaultContentLanguage = "en"
 
