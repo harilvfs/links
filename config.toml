@@ -58,7 +58,7 @@ image = "img/author.jpg"
     # { threads = "https://threads.com/username" },
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
-{ twitch = { href = "https://twitch.tv/aayushchalese", text = "Twitch" } },
+{ twitch = { href = "https://twitch.tv/harilvfs", text = "Twitch" } },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
 { x = { href = "https://x.com/harilvfs", text = "Twitter" } },
