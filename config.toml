@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "Links"
-# copyright = "Copy, _right?_ 🤔 | © Hari Chalise"
+copyright = "Copy, _right?_ 🤔 | © Hari Chalise"
 
 [markup]
   [markup.goldmark]
