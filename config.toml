@@ -63,8 +63,9 @@ image = "img/author.jpg"
     # { whatsapp = "https://wa.me/phone-number" },
 { x = { href = "https://x.com/harilvfs", text = "Twitter" } },
 { youtube = { href = "https://youtube.com/@harilvfs", text = "YouTube" } },
-  ]
-
+{ codeberg = { href = "https://codeberg.org/aayushchalise", text = "CodeBerg"} },
+{ staropensourc = { href = "https://git.staropensource.de/harilvfs", text = "StarOpenSource" } },
+]
 [module]
   [module.hugoVersion]
     extended = false
