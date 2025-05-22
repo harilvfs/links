@@ -40,7 +40,7 @@ image = "img/author.jpg"
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
     # { linkedin = "https://linkedin.com/in/username" },
-    # { mastodon = "https://mastodon.instance/@username" },
+{ mastodon = { href = "https://mastodon.social/@harilvfs", text = "Mastodon" } },
 { medium = { href = "https://medium.com/@aayushchalise", text = "Medium" } },
     # { microsoft = "https://www.microsoft.com/" },
 { matrix = { href = "https://matrix.to/#/@harilvfs:matrix.org", text = "Matrix" } },
