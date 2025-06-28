@@ -10,9 +10,6 @@ Special thanks to the developer of this theme: [jpanther/lynx](https://github.co
 > [!WARNING]  
 > Please do not contribute, modify, or make pull requests to this repository. If you want to build your own site, feel free to use the [Lynx theme](https://themes.gohugo.io/themes/lynx/) directly.  
 
-### License  
-This project is licensed under the **MIT License**, meaning you are free to fork and modify it as you wish.  
-
 ### Setup & Usage  
 Refer to the official [Lynx README](https://github.com/jpanther/lynx?tab=readme-ov-file#lynx) for detailed instructions.  
 
