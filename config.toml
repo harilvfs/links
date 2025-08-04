@@ -21,6 +21,7 @@ image = "img/author.jpg"
   links = [
 { email = {href = "mailto:harilvfs@chalisehari.com.np", text = "Mail" } },
 { link = { href = "https://chalisehari.com.np/", text = "Website" } },
+{ link = { href = "https://blog.chalisehari.com.np/", text = "Blog Site" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
