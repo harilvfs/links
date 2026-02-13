@@ -42,7 +42,7 @@ image = "img/author.jpg"
     # { lastfm = "https://last.fm/user/username" },
     # { linkedin = "https://linkedin.com/in/username" },
 { mastodon = { href = "https://mastodon.social/@harilvfs", text = "Mastodon" } },
-{ medium = { href = "https://medium.com/@aayushchalise", text = "Medium" } },
+{ medium = { href = "https://harilvfs.medium.com", text = "Medium" } },
     # { microsoft = "https://www.microsoft.com/" },
 { matrix = { href = "https://matrix.to/#/@harilvfs:matrix.org", text = "Matrix" } },
     # { patreon = "https://www.patreon.com/username" },
